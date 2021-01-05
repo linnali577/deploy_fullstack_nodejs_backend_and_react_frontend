@@ -356,7 +356,7 @@ sudo pm2 start index.js
 pm2 startup ubuntu
 ```
 
-There are a lot of different ways you can host your fullstack, frontend, backend applications and I choose put frontend and backend on a single droplet on digital ocean. If there is anything confusing or I got something wrong please let me know. Please also let me know if you find this helpful. Feel free to leave your comments.
+There are a lot of different ways you can host your fullstack, frontend, backend applications and I choose put frontend and backend on a single droplet on digital ocean. If there is anything confusing or I got something wrong please let me know. Please also let me know if you find this helpful. Feel free to leave your comments in my corresponding [gist's comment section](https://gist.github.com/linnali577/2768fabac6c88ba5f5afce5c4191278e).
 Thanks!
 
 Sources:
